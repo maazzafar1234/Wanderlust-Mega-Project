@@ -96,7 +96,7 @@ pipeline {
                     </body>
                     </html>
             """,
-            to: 'trainwithshubham@gmail.com',
+            to: 'maazzafar156@gmail.com',
             mimeType: 'text/html'
             }
         }
@@ -117,7 +117,7 @@ pipeline {
                     </body>
                     </html>
             """,
-            to: 'trainwithshubham@gmail.com',
+            to: 'maazzafar156@gmail.com',
             mimeType: 'text/html'
             }
         }
