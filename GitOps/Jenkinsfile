@@ -103,7 +103,7 @@ pipeline {
       failure {
             script {
                 emailext attachLog: true,
-                from: 'trainwithshubham@gmail.com',
+                from: 'maazzafar156@gmail.com@gmail.com',
                 subject: "Wanderlust Application build failed - '${currentBuild.result}'",
                 body: """
                     <html>
